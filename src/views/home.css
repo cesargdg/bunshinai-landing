@@ -1,0 +1,143 @@
+.home-container10 {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-content-wrapper {
+  height: 386px;
+}
+ 
+.home-hero-headline {
+  width: 844px;
+}
+ 
+.home-text11 {
+  color: #dc143c;
+  display: inline-block;
+  position: relative;
+}
+ 
+.home-text13 {
+  font-weight: 700;
+}
+ 
+.home-text15 {
+  font-weight: 700;
+}
+ 
+.home-bg-pattern {
+  top: -667px;
+  left: -861px;
+  width: 197px;
+  height: 4748px;
+}
+ 
+.home-container11 {
+  display: none;
+}
+ 
+.home-container12 {
+  display: contents;
+}
+ 
+.home-container13 {
+  display: none;
+}
+ 
+.home-container14 {
+  display: contents;
+}
+ 
+.home-service-description1 {
+  font-size: inherit;
+  background-color: initial;
+}
+ 
+.home-image {
+  width: 147px;
+  height: 395px;
+  object-fit: cover;
+}
+ 
+.home-tech-image-container {
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+}
+ 
+.home-container15 {
+  display: none;
+}
+ 
+.home-container16 {
+  display: contents;
+}
+ 
+.home-cta-button2 {
+  text-decoration: none;
+}
+ 
+.home-cta-button-text {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+}
+ 
+.home-cta-email-link {
+  color: #dc143c;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  border-bottom: 1px solid transparent;
+  text-decoration: none;
+}
+ 
+.home-container17 {
+  display: none;
+}
+ 
+.home-container18 {
+  display: contents;
+}
+ 
+.home-container19 {
+  display: none;
+}
+ 
+.home-container20 {
+  display: contents;
+}
+ 
+.home-link4 {
+  display: contents;
+}
+ 
+.home-container21 {
+  right: 50px;
+  border: 1px solid #ffffff5c;
+  bottom: 30px;
+  display: flex;
+  z-index: 22;
+  position: fixed;
+  box-shadow: 5px 5px 10px 0px rgba(31, 31, 31, 0.4);
+  min-height: auto;
+  align-items: center;
+  padding-top: 8px;
+  padding-left: 12px;
+  border-radius: 8px;
+  padding-right: 12px;
+  padding-bottom: 8px;
+  backdrop-filter: blur(6px);
+  background-color: rgba(41, 41, 41, 0.41);
+}
+ 
+.home-icon94 {
+  width: 24px;
+  margin-right: 4px;
+}
+ 
+.home-text33 {
+  color: white;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
